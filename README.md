@@ -2,7 +2,7 @@
 
 ### Overview
 This lab aims to solve more coding challenges that involve creating and manipulating variables, using functions with multiple parameters, and handling conditional logic.
----
+
 
 ### Learning Objectives
 
